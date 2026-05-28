@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import  { useEffect, useState } from 'react'
 import { getAllCustomer, saveCustomer } from '../service/customer'
 
 const Customer = () => {
